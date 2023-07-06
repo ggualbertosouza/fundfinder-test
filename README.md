@@ -1,7 +1,7 @@
 # FundsFinder
 
 Projeto feito para fins de aprendizado, entendendo como funciona DjangoRest, usando como base API construída pelo tutorial
-da [PythonAcademy]([https://pages.github.com/](https://pythonacademy.com.br/blog/construcao-de-apis-com-django-rest-framework)).
+da [PythonAcademy](https://pythonacademy.com.br/blog/construcao-de-apis-com-django-rest-framework).
 
 
 Essa é uma API que possui informações de fundos imobiliários, permite que sejam feitas requisições 
